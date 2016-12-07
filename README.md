@@ -10,15 +10,17 @@ The federal government expresses itself through its web presence.  Much of an ag
 
 The goal of this project is to inventory and account for the full web presence of the US federal government.  
 
-## Initial Resources
+## Primary Resources
 
 ### [.gov Registry Export](https://github.com/GSA/data/tree/gh-pages/dotgov-domains)
 
 The [.gov Registry](https://www.dotgov.gov) offers a recurring export of [.gov second level domains](https://github.com/GSA/data/tree/gh-pages/dotgov-domains).  These include federal, state, tribal, and local .gov websites.  Not included are .mil and .fed.us websites, as well as .com, .org, etc. websites that are used by government agencies.  
 
-### Other Resources
+### Secondary Resources
 
 * [Webharvest.gov](https://www.webharvest.gov/)
+* [Dotmil-domains project](https://github.com/esonderegger/dotmil-domains)
+* [DAP participants](https://analytics.usa.gov/data/live/sites.csv)
 
 ## Subdomains 
 
