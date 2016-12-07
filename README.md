@@ -28,7 +28,7 @@ At the moment, though, there is not a published directory of .gov subdomains.  T
 
 ### Exports from Censys.io
 
-...
+* Note [process here](https://github.com/18F/domain-scan/pull/85)
 
 ### Crawling the .gov List with Wget
 
