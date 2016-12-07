@@ -30,7 +30,7 @@ At the moment, though, there is not a published directory of .gov subdomains.  T
 
 ### Participants in the Digital Analytics Program 
 
-* Note [list of pafticipant domains](https://analytics.usa.gov/data/live/sites.csv)
+* Note [list of participant domains](https://analytics.usa.gov/data/live/sites.csv)
 * Goal would be to derive from that a list of subdomains
 * Note that this will only show information from [where the Digital Analytics Program has been implemented](https://pulse.cio.gov/analytics/domains/)
 
