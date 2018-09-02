@@ -12,7 +12,7 @@ The goal of this project is to inventory and account for the full web presence o
 
 ## Primary Resources
 
-### [.gov Registry Export](https://github.com/GSA/data/tree/master/dotgov-domains
+### [.gov Registry Export](https://github.com/GSA/data/tree/master/dotgov-domains)
 
 The [.gov Registry](https://www.dotgov.gov) offers a recurring export of [.gov second level domains](https://github.com/GSA/data/tree/gh-pages/dotgov-domains).  These include federal, state, tribal, and local .gov websites.  Not included are .mil and .fed.us websites, as well as .com, .org, etc. websites that are used by government agencies.  
 
